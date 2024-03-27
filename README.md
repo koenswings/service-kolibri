@@ -1,3 +1,3 @@
 # service-kolibri
 
-Build files for the Kolibri service
+Build files for the Kolibri service.
