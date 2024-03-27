@@ -1,4 +1,4 @@
-FROM --platform=linux/arm64 python:3.5-buster
+FROM --platform=linux/arm64/v8 python:3.5-buster
 
 COPY --chmod=755 ./kolibri-0.15.5.pex /kolibri-0.15.5
 
